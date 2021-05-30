@@ -1,2 +1,2 @@
 jupyterlab-git
-jupyterlab-archive
+jupyter-archive
