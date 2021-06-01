@@ -1,0 +1,5 @@
+jupyter labextension install jupyterlab-topbar-extension --no-build
+jupyter labextension install jupyterlab-system-monitor --no-build
+jupyter labextension install jupyterlab-topbar-text --no-build
+
+jupyter lab build --minimize=False
